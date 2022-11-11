@@ -7,33 +7,33 @@ version: 2
 
 # Personal info
 name: 김별
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+title: Java 개발자
+email: bubblecat@naver.com
+website: https://www.bubblecat.co.kr/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
+# twitter_username: 안씀
+github_username:  bowies
+# stackoverflow_username: 안씀
+# dribbble_username: 안씀
+# facebook_username: 안씀
+# flickr_username: 안씀
+# instagram_username: 안씀
+# linkedin_username: 안씀
+# xing_username: 안씀
+# pinterest_username: 안씀
+# youtube_username: 안씀
+# googleplus_username: 안씀
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
 - title: itsgoingto.be
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://www.bubblecat.co.kr/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
