@@ -50,15 +50,11 @@ about_profile_image: images/profile_color.png
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요. 제 이름은 별입니다. 보안 경력이 있는 프론트-백엔드 개발자입니다. 
 
-  (Database나 서버 모듈 개발도 잘 한답니다.)
+  (데이터베이스, 서버 모듈 개발도 잘 한답니다.)
 
-  주력 사업 분야가 공인인증서(GPKI/NPKI)와 DRM인 여러 회사에서 일했습니다.
+  주력 수익 사업이 공인인증서(GPKI/NPKI)와 DRM인 여러 회사에서 일했습니다.
 
   주력 분야 : <mark>JAVA</mark> 와 <mark>긍정적인 생각</mark>
-
-  좋아하는 단어 : <mark>정서적 기억의 환기</mark>
-  
-  최근 충격적인 일 : <mark>최대 몸무게 갱신</mark>
 
 content:
   - title: Projects # Title for the section
@@ -111,14 +107,20 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Java 외 Web Programming에 대한 관심과 이런 취미가 있습니다.:
+      Java 외 Web Programming에 대한 관심 외 이런 취미가 있습니다.:
       - 평지 산책
-      - 게임
-      - 기계식 키보드 (백축/갈축을 좋아합니다.)
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - 파밍이 많은 게임
+      - 기계식 키보드 (특히 백축/갈축을 좋아합니다.)
+      - 키캡 만드는 영상 보기 (아티산 키캡을 언젠가 만들 것입니다.)
 
-      Look at this cool image  
-      ![Trees](/images/landscape-trees.jpg "Trees")
+    좋아하는 단어 : <mark>정서적 기억의 환기</mark>
+
+    최근 충격적인 일 : <mark>최대 몸무게 갱신</mark>
+
+      귀여운 캐릭터를 보세요!
+      ![분위기가 있는 흑백 캐릭터](/images/profile_gray.png "notion 느낌 캐릭터")
+
+
 
 # Footer
 footer_show_references: true
