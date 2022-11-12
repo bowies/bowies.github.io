@@ -117,10 +117,9 @@ content:
 
       최근 충격적인 일 : <mark>최대 몸무게 갱신</mark>
 
-      귀여운 캐릭터를 보세요!
-      ![분위기가 있는 흑백 캐릭터](/images/profile_gray.png "notion 느낌 캐릭터")
+      ![분위기가 있는 흑백 캐릭터](/images/profile_gray_200.png "notion 느낌 캐릭터")
     
-
+# 2022-11-13 이미지 리사이징 필요 -> 현재는무조건 100%로 적용되어 일단 200px 짜리 적용
 
 # Footer
 footer_show_references: true
