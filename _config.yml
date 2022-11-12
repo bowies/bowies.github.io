@@ -46,11 +46,14 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile_color.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  안녕하세요. 제 이름은 별입니다. 보안 경력이 있는 프론트-백엔드 개발자입니다. 
+  (Database나 서버 모듈 개발도 잘 한답니다.)
+  주력 사업 분야가 공인인증서(GPKI/NPKI)와 DRM인 여러 회사에서 일했습니다.
+  주력 분야 : <mark>JAVA</mark> 와 <mark>긍정적인 생각</mark>
+  좋아하는 단어 : <mark>정서적 기억의 환기</mark>
+  최근 충격적인 일 : <mark>최대 몸무게 갱신</mark>
 
 content:
   - title: Projects # Title for the section
@@ -103,14 +106,14 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
+      Java 외 Web Programming에 대한 관심과 이런 취미가 있습니다.:
+      - 평지 산책
+      - 게임
+      - 기계식 키보드 (백축/갈축을 좋아합니다.)
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![Trees](/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
