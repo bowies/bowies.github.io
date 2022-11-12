@@ -49,10 +49,15 @@ additional_links:
 about_profile_image: images/profile_color.png
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요. 제 이름은 별입니다. 보안 경력이 있는 프론트-백엔드 개발자입니다. 
+
   (Database나 서버 모듈 개발도 잘 한답니다.)
+
   주력 사업 분야가 공인인증서(GPKI/NPKI)와 DRM인 여러 회사에서 일했습니다.
+
   주력 분야 : <mark>JAVA</mark> 와 <mark>긍정적인 생각</mark>
+
   좋아하는 단어 : <mark>정서적 기억의 환기</mark>
+  
   최근 충격적인 일 : <mark>최대 몸무게 갱신</mark>
 
 content:
