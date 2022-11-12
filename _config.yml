@@ -104,18 +104,33 @@ content:
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-  - title: A Little More About Me
+  - title: Small Talk
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Java 외 Web Programming에 대한 관심 외 이런 취미가 있습니다.:
-      - 평지 산책
-      - 파밍이 많은 게임
-      - 기계식 키보드 (특히 백축/갈축을 좋아합니다.)
-      - 키캡 만드는 영상 보기 (아티산 키캡을 언젠가 만들 것입니다.)
+      최애 외부 활동
+      - 구름낀 날 평지 산책 (2~6시간)
 
-      좋아하는 단어 : <mark>정서적 기억의 환기</mark>
+      동적인 취미
+      - 가구/인테리어 박람회
 
-      최근 충격적인 일 : <mark>최대 몸무게 갱신</mark>
+      정적인 취미
+      - 파밍 게임 (머리 비우기)
+
+      최애 소품
+      - 트랙볼 마우스 (업무요정)
+      - 기계식 키보드 (백축 / 갈축)
+      - 키캡 (언젠가 직접 아티산 키캡을!)
+      
+      좋아하는 단어
+      - 정서적 기억의 환기
+
+      노동요
+      - 브릿팝
+
+      최근 충격적인 일
+      - 최대 몸무게 갱신
+
+
 
       ![분위기가 있는 흑백 캐릭터](/images/profile_gray_200.png "notion 느낌 캐릭터")
     
